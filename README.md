@@ -1,4 +1,4 @@
-# Maintenance Platform
+# Plataforma de Mantenimiento
 
 Plataforma web para la gestión de mantenimiento de climatización (chillers y torres de enfriamiento): informes técnicos en PDF y Word, hojas de servicio con firma digital, monitoreo de equipos vía PLC y un asistente de IA que redacta borradores de informe usando el historial real del cliente como contexto.
 
